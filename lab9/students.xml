@@ -1,0 +1,39 @@
+<?xml version="1.0" encoding="UTF-8"?>
+<Students>
+    <Student>
+        <GradebookID>12345</GradebookID>
+        <Surname>Student1</Surname>
+        <Course>1</Course>
+        <Group>4</Group>
+    </Student>
+    <Student>
+        <GradebookID>12346</GradebookID>
+        <Surname>Student22</Surname>
+        <Course>1</Course>
+        <Group>5</Group>
+    </Student>
+    <Student>
+        <GradebookID>12347</GradebookID>
+        <Surname>Student1</Surname>
+        <Course>3</Course>
+        <Group>2</Group>
+    </Student>
+    <Student>
+        <GradebookID>12348</GradebookID>
+        <Surname>Student22</Surname>
+        <Course>4</Course>
+        <Group>1</Group>
+    </Student>
+    <Student>
+        <GradebookID>12349</GradebookID>
+        <Surname>Student3</Surname>
+        <Course>2</Course>
+        <Group>3</Group>
+    </Student>
+    <Student>
+        <GradebookID>12350</GradebookID>
+        <Surname>Student1</Surname>
+        <Course>1</Course>
+        <Group>5</Group>
+    </Student>
+</Students>
